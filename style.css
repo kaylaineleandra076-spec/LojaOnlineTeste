@@ -36,3 +36,20 @@ nav a{
     display: flex;
     gap: 15px;
 }
+
+/* titulo */
+
+.titulo{
+    text-align: center;
+    margin: 30px 0;
+}
+
+.titulo h1{
+    font-size: 28px;
+}
+
+.titulo p{
+    color: #666;
+    font-size: 14px;
+    margin-top: 5px;
+}
